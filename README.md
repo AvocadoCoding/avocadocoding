@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<a><img align="center" src="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe" height="100" /></a>
-
+![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif)
 
 
 <!--
