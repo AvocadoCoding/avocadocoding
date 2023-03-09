@@ -6,7 +6,7 @@ I'm currently working on some applicaitons as a hobby. I'm always open to potent
 You can connect with me on LinkedIn here:
 
 
-<a> (img align ="centre" ![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif)/></a>
+<a> <img align ="centre" ![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif) height="100"/></a>
 
 
 <!--
