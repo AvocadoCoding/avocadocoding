@@ -5,6 +5,7 @@ I'm currently working on some applicaitons as a hobby. I'm always open to potent
 
 You can connect with me on LinkedIn here:
 
+![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif)
 
 <p align="center">
 <img src=![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif) alt="animated" />
