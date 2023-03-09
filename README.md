@@ -7,7 +7,7 @@ You can connect with me on LinkedIn here:
 
 
 <p align="center">
-<![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif)/>
+<img ![giphy](https://user-images.githubusercontent.com/116954089/224168008-1684aa6c-96b7-4eed-abf6-fe1c360b29e6.gif)/>
 </p>
 
 <!--
