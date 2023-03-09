@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub repo. I'm an enthusiastic amateur programmer looking to build great applications, particularly in React.
 
-I'm currently working on some applicaitons as a hobby. I'm always open to potential collaborations so please get in touch if that is something you are interested in
+I'm currently working on some applications as a hobby. I'm always open to potential collaborations so please get in touch if that is something you are interested in
 
 You can connect with me on LinkedIn here: [<a href= "https://www.linkedin.com/in/christopher-gardner-profile/" target="blank"><img align="center" src="LinkedInIcon.svg" height="30" alt="LinkedIn Logo"/></a>](https://www.linkedin.com/in/christopher-gardner-profile/)
 
