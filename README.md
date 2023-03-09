@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a><img align="center" src="https://skyline.github.com/avocadocoding/2023" height="100" /></a>
+
 <!--
 **AvocadoCoding/AvocadoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
