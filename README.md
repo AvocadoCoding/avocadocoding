@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a><img align="center" src="https://skyline.github.com/avocadocoding/2023" height="100" /></a>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p>
 
 <!--
 **AvocadoCoding/AvocadoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
