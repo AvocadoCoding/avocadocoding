@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub repo. I'm an enthusiastic amateur programmer looking to build great applications, particularly in React.
+Welcome to my GitHub repo. I'm an enthusiastic amateur programmer looking to build great applications, particularly in React. I've worked with Javascript, jQuery, HTML, CSS, Bootstrap, React, Matlab and SQL.
 
 I'm currently working on some applications as a hobby. I'm always open to potential collaborations so please get in touch if that is something you are interested in.
 
